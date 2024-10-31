@@ -1,4 +1,4 @@
-# World Layoffs Data Analysis Exploratory Data Analysis Using MySQL
+# World Layoffs Data Analysis: Exploratory Data Analysis Using MySQL
 
 **Introduction**
 
